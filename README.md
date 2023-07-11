@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=99CCFF&height=160&section=header&text=meanlightk&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=250&section=header&text=meanlightk%20story&fontSize=90" />
 </p>
 <h3 align=center> 
 🌺 Hello🖐 I’m JiHyun
@@ -45,5 +45,6 @@ Here are some ideas to get you started:
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a>
 </div>
-
-![](./profile-3d-contrib/profile-green-animate.svg)
+<div align=center>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=footer" />
+</div>
