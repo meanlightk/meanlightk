@@ -44,7 +44,12 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:meanlightk@gmail.com"
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a>
+ <br><br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meanlightk&layout=compact)](https://github.com/meanlightk/github-readme-stats)
+
 </div>
+	
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=footer" />
 </div>
