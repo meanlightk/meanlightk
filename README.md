@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=250&section=header&text=meanlightk%20story&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=250&section=header&text=JiHyeon's%20story&fontSize=70" />
 </p>
 <h3 align=center> 
-🌺 Hello🖐 I’m JiHyun
+🌺 Hello🖐 Welcome to my Github
 <br>
 
 </h3>
@@ -27,15 +27,15 @@ Here are some ideas to get you started:
 <h3 align="center">📚 Tech Stack 📚</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396.svg?style=flat-square&logo=Java&logoColor=white"/>
-	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
-	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-	<img src="https://img.shields.io/badge/mariaDB-1F305F?style=flat-square&logo=mariaDB&logoColor=white">
-	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
-	<br>
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 	<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white">
-	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+	<img src="https://img.shields.io/badge/mariaDB-1F305F?style=flat-square&logo=mariaDB&logoColor=white">
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
+	<br>
+	<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
+ 	<img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white">
 </div>
 	
@@ -50,9 +50,6 @@ Here are some ideas to get you started:
 	 style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 	</a>
  <br><br><br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meanlightk&layout=compact)](https://github.com/meanlightk/github-readme-stats)
-
 </div>
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=200&section=footer" />
