@@ -101,7 +101,6 @@
 |---|---|
 |*Java 게시판* &nbsp; | https://github.com/meanlightk/JavaProjectOracle|
 |*JSP 게시판* &nbsp; | https://github.com/meanlightk/JspProject|
-|*SpringBoot 웹 사이트* &nbsp; | https://github.com/meanlightk/SpringbootProject|
 </div>
 </details>
 <div>
