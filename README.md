@@ -45,15 +45,12 @@
 
 ## 📖학습 중인 기술
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 <br>
 
 ## ⭐나의 관심 기술
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 <hr>
 <!-- [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690982818384?alt=media&token=2a38c110-ee97-4ae3-9ad6-b569944ec34a)](https://github.com/msdio/stackticon) -->
@@ -81,6 +78,7 @@
 ## 👉 Histories 
 | Date | Content | with |
 |:---:|:---:|:---:|
+| 24.03 ~  | SpringBoot & React.js | SpringBoot 와 React.js 를 활용한 교육 사이트 개발 진행 중 |
 | 23.11 ~ 24.01 | React.js / Next.js | React.js와 Next.js 를 활용한 백오피스 개발 |
 | 23.08.01 ~ 23.09.13 | SpringBoot를 이용한 웹 사이트 | SpringBoot 개인 프로젝트 |
 | 23.04.12 ~ 23.08.17 | AWS활용 자바 풀스택개발 수료 | 안산 이젠컴퓨터아카데미 |
