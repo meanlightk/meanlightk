@@ -92,7 +92,7 @@
 #### 🙌 Team
 | Project | Adress |
 |---|---|
-|*화장품 쇼핑몰* &nbsp;| https://github.com/meanlightk/SpringProject <br> http://3.39.15.64:8080/home |
+|*화장품 쇼핑몰* &nbsp;| https://github.com/meanlightk/SpringProject |
 
 #### 💁 Personal
 | Project | Adress |
