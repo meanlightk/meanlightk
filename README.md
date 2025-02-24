@@ -16,14 +16,12 @@
     <!-- DataBase -->
     <p><strong>DataBase</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
         <img src="https://img.shields.io/badge/mariadb-003545?style=for-the-badge&logo=mariadb&logoColor=white">
     </div>
     <!-- Server -->
     <p><strong>Server</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
     </div>
@@ -49,7 +47,6 @@
 
 ## ⭐나의 관심 기술
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <hr>
@@ -78,7 +75,6 @@
 ## 👉 Histories 
 | Date | Content | with |
 |:---:|:---:|:---:|
-| 24.03 ~  | SpringBoot & React.js | SpringBoot 와 React.js 를 활용한 교육 사이트 개발 진행 중 |
 | 23.11 ~ 24.01 | React.js / Next.js | React.js와 Next.js 를 활용한 백오피스 개발 |
 | 23.08.01 ~ 23.09.13 | SpringBoot를 이용한 웹 사이트 | SpringBoot 개인 프로젝트 |
 | 23.04.12 ~ 23.08.17 | AWS활용 자바 풀스택개발 수료 | 안산 이젠컴퓨터아카데미 |
